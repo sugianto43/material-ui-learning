@@ -19,10 +19,34 @@
       "id": 3
     },
     {
-      "title": "Mario's Birhday Presents",
-      "details": "nkdknfnmdf",
-      "category": "reminders",
+      "title": "Pay the milkman",
+      "details": "lorem ipsum dolor lamd madn dnma dskejn abda",
+      "category": "money",
       "id": 4
+    },
+    {
+      "title": "do harlem shake",
+      "details": "annmn sdnnkjka kdsajs skasa",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "pay electicity",
+      "details": "akjalsdj asjdanlfjan fnajdnaln danjfanjnl",
+      "category": "money",
+      "id": 6
+    },
+    {
+      "title": "Learning React js",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Donec ac odio tempor orci dapibus ultrices in iaculis. Lacus sed viverra tellus in. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "Playning futsal",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Donec ac odio tempor orci dapibus ultrices in iaculis. Lacus sed viverra tellus in. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.",
+      "category": "reminders",
+      "id": 8
     }
   ]
 }
